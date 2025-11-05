@@ -3,7 +3,7 @@
 Um sistema simples desenvolvido em Python para gerenciar tarefas utilizando o Redis como banco de dados.
 Com ele, é possível adicionar, listar, editar e excluir tarefas de forma rápida e eficiente.
 
-🚀 #Funcionalidades
+##🚀 Funcionalidades
 
 ➕ Adicionar novas tarefas
 
@@ -15,12 +15,12 @@ Com ele, é possível adicionar, listar, editar e excluir tarefas de forma rápi
 
 💾 Armazenamento rápido via Redis Server
 
-🛠️ #Tecnologias Utilizadas
+##🛠️ Tecnologias Utilizadas
 Tecnologia	Descrição
 Python	Linguagem principal do projeto
 Redis	Banco de dados em memória
 redis-py	Biblioteca para integração com o Redis
-📦 Pré-requisitos
+##📦 Pré-requisitos
 
 Certifique-se de ter instalado:
 
@@ -28,33 +28,33 @@ Python 3.8+
 
 Redis Server
 
-Importante: O Redis deve estar em execução antes de iniciar o programa.
+###Importante: O Redis deve estar em execução antes de iniciar o programa.
 Para iniciar no Windows (se estiver usando o Redis do WSL):
 
 redis-server
 
 
-Biblioteca redis para Python:
+###Biblioteca redis para Python:
 
 pip install redis
 
-▶️ #Como Executar
+##▶️ Como Executar
 
 Clone este repositório:
 
 git clone https://github.com/SEU_USUARIO/ControleDeTarefas.git
 
 
-Acesse a pasta:
+###Acesse a pasta:
 
 cd ControleDeTarefas
 
 
-#Execute o programa:
+###Execute o programa:
 
 python index.py
 
-🖼️ Pré-visualização
+##🖼️ Pré-visualização
 
 <img width="705" height="637" src="https://github.com/user-attachments/assets/73dfc6e6-a65b-42bc-ac16-ebf755568186" />
 
@@ -63,15 +63,15 @@ python index.py
 <img width="705" height="637" src="https://github.com/user-attachments/assets/adc422f6-3c54-4342-84f6-43815d51c96b" />
 🤝 Contribuições
 
-#Contribuições são bem-vindas!
+###Contribuições são bem-vindas!
 Sinta-se à vontade para abrir Issues ou enviar Pull Requests. 😊
 
-📄 #Licença
+##📄 Licença
 
 Este projeto está sob a licença MIT.
 Você pode usá-lo e modificá-lo livremente.
 
-#Se quiser, posso também:
+##Se quiser, posso também:
 ✅ Criar um logo simples para o projeto
 ✅ Melhorar o visual com interface gráfica (Tkinter / PySimpleGUI / Web)
 ✅ Criar uma API para usar tarefas via web
