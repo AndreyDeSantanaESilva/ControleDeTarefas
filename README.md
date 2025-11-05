@@ -1,4 +1,4 @@
-📝 #Controle de Tarefas
+📝 # Controle de Tarefas
 
 Um sistema simples desenvolvido em Python para gerenciar tarefas utilizando o Redis como banco de dados.
 Com ele, é possível adicionar, listar, editar e excluir tarefas de forma rápida e eficiente.
